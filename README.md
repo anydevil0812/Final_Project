@@ -16,7 +16,7 @@
 ### [사용한 기술 스택]
 1. DB
     - MySQL
-2. 전처리
+2. 전처리 
     - Python (Selenium)
 3. ML/DL
     - KoNLPy
